@@ -4,7 +4,7 @@
     "jsx": "react-jsx",
     "declarationDir": "dist"
   },
-  "files": ["src/microfrontend-footer.tsx"],
+  "files": ["src/microfrontend-app2.tsx"],
   "include": ["src/**/*"],
   "exclude": ["src/**/*.test*"]
 }
